@@ -36,5 +36,4 @@ body {
   border-style: solid;
   border-image-slice: 1;
   border-width: 5px 0;
-  border-image-source: var(--bg-border);
 }
